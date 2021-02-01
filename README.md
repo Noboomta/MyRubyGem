@@ -2,8 +2,15 @@
 
 <a href="https://rubygems.org/gems/icon_badge">https://rubygems.org/gems/icon_badge</a>
 
-Example (Ruby):
+Example:<br><br>
 
+
+terminal:
+```
+  >> gem install icon_badge
+```
+
+ruby:
 ```ruby
   >> require 'icon_badge'
   >> IconBadge.generator :name => 'testBadge', :color => 'F7DF1E', :logoColor => 'red', :logo => 'javascript'
