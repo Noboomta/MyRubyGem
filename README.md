@@ -2,7 +2,7 @@
 
 <a href="https://rubygems.org/gems/icon_badge">https://rubygems.org/gems/icon_badge</a>
 
-Example
+Example (Ruby):
 
 ```ruby
   >> require 'icon_badge'
