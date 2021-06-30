@@ -1,11 +1,13 @@
 # MyRubyGem
 
 [![time tracker](https://wakatime.com/badge/github/Noboomta/MyRubyGem.svg)](https://wakatime.com/badge/github/Noboomta/MyRubyGem) <br>
+
 Base from
 <a href="https://rubygems.org/gems/icon_badge">https://rubygems.org/gems/icon_badge</a>
 
-Example:<br><br>
+<hr>
 
+<h1>Sample Use:</h1><br>
 
 terminal:
 ```
@@ -19,5 +21,8 @@ ruby:
   
   => ![badge_name](https://img.shields.io/badge/-testBadge-F7DF1E?style=flat&logoColor=red&logo=javascript)
 ```
-
+Result:
+```mkdown
+  ![badge_name](https://img.shields.io/badge/-testBadge-F7DF1E?style=flat&logoColor=red&logo=javascript)
+```
   ![badge_name](https://img.shields.io/badge/-testBadge-F7DF1E?style=flat&logoColor=red&logo=javascript)
